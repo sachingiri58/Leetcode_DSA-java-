@@ -13,7 +13,7 @@ public class Solution {
         return candidate;
     }
 
-    // Optional: main method to test
+    
     public static void main(String[] args) {
         Solution sol = new Solution();
         int[] nums = {3, 2, 3};
